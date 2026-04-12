@@ -1,0 +1,3 @@
+ls -lrt
+ps
+echo " this is the test file "
